@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_2MprAXu5Eee0z51y9CZ95w" label="TalendProject641" description="" language="java" technicalLabel="TALENDPROJECT641" creationDate="2017-08-07T12:34:12.740-0500" author="_2MprAnu5Eee0z51y9CZ95w" productVersion="Talend Data Fabric-6.4.1.20170623_1246" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/punkrockid/talend.git&quot;,&quot;login&quot;:&quot;punkrockid&quot;,&quot;passwd&quot;:&quot;NhkPCHJmc3dkz+HWtzSNBg==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="MDM"/>
+  <TalendProperties:User xmi:id="_2MprAnu5Eee0z51y9CZ95w" login="israel.valdez@teschglobal.com" firstName="Israel" lastName="Valdez" type="MDM" additionnalData="{}"/>
+</xmi:XMI>
