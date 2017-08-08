@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_8-_cEHxqEeegovBPIZM62g" name="amc" id="_klEq4HxqEeegovBPIZM62g" label="amc" dataPackage="_X2vhoHxrEeegovBPIZM62g _X2vhoXxrEeegovBPIZM62g _X2vhonxrEeegovBPIZM62g _X2vho3xrEeegovBPIZM62g" DatabaseType="MySQL" DriverClass="org.gjt.mm.mysql.Driver" URL="jdbc:mysql://server01:3306/?noDatetimeStringSync=true" dbVersionString="MYSQL_5" Port="3306" Username="root" Password="QMiz7p+N+AHKJogR9dTsfQ==" ServerName="server01" DatasourceName="" FileFieldName="" SID="" SqlSynthax="SQL Syntax" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="noDatetimeStringSync=true" StandardSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="_8_CfYHxqEeegovBPIZM62g" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_8_9FYHxqEeegovBPIZM62g" tag="package filter" value=""/>
+    <taggedValue xmi:id="_9AGPUHxqEeegovBPIZM62g" tag="Status" value=""/>
+    <taggedValue xmi:id="_9AGPUXxqEeegovBPIZM62g" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_9AGPUnxqEeegovBPIZM62g" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_9AGPU3xqEeegovBPIZM62g" tag="Description" value=""/>
+    <taggedValue xmi:id="_9AGPVHxqEeegovBPIZM62g" tag="Author" value=""/>
+    <taggedValue xmi:id="_9AG2YHxqEeegovBPIZM62g" tag="otherParameter"/>
+    <taggedValue xmi:id="_9AiUMHxqEeegovBPIZM62g" tag="DB ProductName" value="MySQL"/>
+    <taggedValue xmi:id="_9AiUMXxqEeegovBPIZM62g" tag="DB ProductVersion" value="5.6.37"/>
+    <taggedValue xmi:id="_9AiUMnxqEeegovBPIZM62g" tag="DB IdentifierQuoteString" value="`"/>
+    <parameters xmi:id="_8_CfYXxqEeegovBPIZM62g" key="CONN_PARA_KEY_USERNAME" value="root"/>
+    <parameters xmi:id="_XNwPAHxrEeegovBPIZM62g" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_X2vhoHxrEeegovBPIZM62g" name="information_schema" dataManager="_8-_cEHxqEeegovBPIZM62g"/>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_X2vhoXxrEeegovBPIZM62g" name="mysql" dataManager="_8-_cEHxqEeegovBPIZM62g"/>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_X2vhonxrEeegovBPIZM62g" name="performance_schema" dataManager="_8-_cEHxqEeegovBPIZM62g"/>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_X2vho3xrEeegovBPIZM62g" name="talend_dq" dataManager="_8-_cEHxqEeegovBPIZM62g"/>
+</xmi:XMI>
