@@ -43,97 +43,6 @@
         <elementParameter xmi:id="_L45Po3xrEeegovBPIZM62g" field="TECHNICAL" name="PROPERTY_TYPE_IMPLICIT_CONTEXT:REPOSITORY_PROPERTY_TYPE" value="" contextMode="false"/>
       </parameters>
     </implicitContextSettings>
-    <ItemsRelations xmi:id="_L5AkUHxrEeegovBPIZM62g">
-      <baseItem xmi:id="_L5AkUXxrEeegovBPIZM62g" id="_8m0RcCFgEeaf7K3hWyGk1w" version="0.1" type="job"/>
-      <relatedItems xmi:id="_L5AkUnxrEeegovBPIZM62g" id="_K01CcE3AEeOwYf1xuHiFJA" version="Latest" type="property"/>
-      <relatedItems xmi:id="_L5AkU3xrEeegovBPIZM62g" id="SQLike" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5AkVHxrEeegovBPIZM62g" id="Numeric" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5AkVXxrEeegovBPIZM62g" id="tic_word_titleCase" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5AkVnxrEeegovBPIZM62g" id="RobertsTest_Routine" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5AkV3xrEeegovBPIZM62g" id="ImporttweetsTstandardizerow_1" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5AkWHxrEeegovBPIZM62g" id="DemoRoutines" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5AkWXxrEeegovBPIZM62g" id="DataOperation" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5AkWnxrEeegovBPIZM62g" id="DqStringHandling" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5AkW3xrEeegovBPIZM62g" id="StringHandling" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5AkXHxrEeegovBPIZM62g" id="POC_DataFabrics" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5AkXXxrEeegovBPIZM62g" id="TalendDate" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5AkXnxrEeegovBPIZM62g" id="Formula1" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5AkX3xrEeegovBPIZM62g" id="A2_normalizeaddressTstandardizerow_1" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5AkYHxrEeegovBPIZM62g" id="Products_parsingTstandardizerow_1" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5AkYXxrEeegovBPIZM62g" id="DQTechnical" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5AkYnxrEeegovBPIZM62g" id="IpaasFileUtil" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5AkY3xrEeegovBPIZM62g" id="Robert_Test" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5AkZHxrEeegovBPIZM62g" id="StrongAES" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5AkZXxrEeegovBPIZM62g" id="FiletoByteArray" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5AkZnxrEeegovBPIZM62g" id="df2_routines" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5AkZ3xrEeegovBPIZM62g" id="TalendString" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5AkaHxrEeegovBPIZM62g" id="Parse_names2Tstandardizerow_1" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5AkaXxrEeegovBPIZM62g" id="InList" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5AkanxrEeegovBPIZM62g" id="Transformation" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5Aka3xrEeegovBPIZM62g" id="TalendDataGenerator" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5AkbHxrEeegovBPIZM62g" id="DQ_METHODS" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5AkbXxrEeegovBPIZM62g" id="A1_parisstreetindexcreationTstandardizerow_1" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5AkbnxrEeegovBPIZM62g" id="DataQuality" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5Akb3xrEeegovBPIZM62g" id="Tweets_Generator" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5AkcHxrEeegovBPIZM62g" id="Mathematical" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5AkcXxrEeegovBPIZM62g" id="extInt" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5BLYHxrEeegovBPIZM62g" id="PopulateFromDynamic" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5BLYXxrEeegovBPIZM62g" id="Relational" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5BLYnxrEeegovBPIZM62g" id="KeyManagementForSqoop" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5BLY3xrEeegovBPIZM62g" id="DataQualityDependencies" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5BLZHxrEeegovBPIZM62g" id="MDM" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5BLZXxrEeegovBPIZM62g" id="GetRandomPhoneNum" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5BLZnxrEeegovBPIZM62g" id="DataTypeUtil" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5BLZ3xrEeegovBPIZM62g" id="A2_standardizeaddressTstandardizerow_1" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5BLaHxrEeegovBPIZM62g" id="String_Split" version="Latest" type="routine"/>
-    </ItemsRelations>
-    <ItemsRelations xmi:id="_L5BLaXxrEeegovBPIZM62g">
-      <baseItem xmi:id="_L5BLanxrEeegovBPIZM62g" id="_1KwlACFfEeaf7K3hWyGk1w" version="0.1" type="job"/>
-      <relatedItems xmi:id="_L5BLbHxrEeegovBPIZM62g" id="_jb4PoCE3EeamZ8UtfxQlaw" version="Latest" type="property"/>
-      <relatedItems xmi:id="_L5BLbXxrEeegovBPIZM62g" id="SQLike" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5BLbnxrEeegovBPIZM62g" id="Numeric" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5BLb3xrEeegovBPIZM62g" id="tic_word_titleCase" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5BLcHxrEeegovBPIZM62g" id="RobertsTest_Routine" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5BLcXxrEeegovBPIZM62g" id="ImporttweetsTstandardizerow_1" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5BLcnxrEeegovBPIZM62g" id="DemoRoutines" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5BLc3xrEeegovBPIZM62g" id="DataOperation" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5BLdHxrEeegovBPIZM62g" id="DqStringHandling" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5BLdXxrEeegovBPIZM62g" id="StringHandling" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5BLdnxrEeegovBPIZM62g" id="POC_DataFabrics" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5BLd3xrEeegovBPIZM62g" id="TalendDate" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5BLeHxrEeegovBPIZM62g" id="Formula1" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5BLeXxrEeegovBPIZM62g" id="A2_normalizeaddressTstandardizerow_1" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5BLenxrEeegovBPIZM62g" id="Products_parsingTstandardizerow_1" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5BLe3xrEeegovBPIZM62g" id="DQTechnical" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5BLfHxrEeegovBPIZM62g" id="IpaasFileUtil" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5BLfXxrEeegovBPIZM62g" id="Robert_Test" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5BLfnxrEeegovBPIZM62g" id="StrongAES" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5BLf3xrEeegovBPIZM62g" id="FiletoByteArray" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5BLgHxrEeegovBPIZM62g" id="df2_routines" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5BLgXxrEeegovBPIZM62g" id="TalendString" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5BLgnxrEeegovBPIZM62g" id="Parse_names2Tstandardizerow_1" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5BLg3xrEeegovBPIZM62g" id="InList" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5BLhHxrEeegovBPIZM62g" id="Transformation" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5BLhXxrEeegovBPIZM62g" id="TalendDataGenerator" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5BLhnxrEeegovBPIZM62g" id="DQ_METHODS" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5BLh3xrEeegovBPIZM62g" id="A1_parisstreetindexcreationTstandardizerow_1" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5BLiHxrEeegovBPIZM62g" id="DataQuality" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5BLiXxrEeegovBPIZM62g" id="Tweets_Generator" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5BLinxrEeegovBPIZM62g" id="Mathematical" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5BLi3xrEeegovBPIZM62g" id="extInt" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5BLjHxrEeegovBPIZM62g" id="PopulateFromDynamic" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5BLjXxrEeegovBPIZM62g" id="Relational" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5BLjnxrEeegovBPIZM62g" id="KeyManagementForSqoop" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5BycHxrEeegovBPIZM62g" id="DataQualityDependencies" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5CZgHxrEeegovBPIZM62g" id="MDM" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5CZgXxrEeegovBPIZM62g" id="GetRandomPhoneNum" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5CZgnxrEeegovBPIZM62g" id="DataTypeUtil" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5CZg3xrEeegovBPIZM62g" id="A2_standardizeaddressTstandardizerow_1" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_L5CZhHxrEeegovBPIZM62g" id="String_Split" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_MeGKMHxyEeegovBPIZM62g" id="_klEq4HxqEeegovBPIZM62g" version="Latest" type="property"/>
-      <relatedItems xmi:id="_MeGKMXxyEeegovBPIZM62g" id="DataMasking" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_MeGKMnxyEeegovBPIZM62g" id="TalendStringUtil" version="Latest" type="routine"/>
-    </ItemsRelations>
     <ItemsRelations xmi:id="_tsPCsHx1EeegovBPIZM62g">
       <baseItem xmi:id="_tsPCsXx1EeegovBPIZM62g" id="_aLZgUHx1EeegovBPIZM62g" version="0.1" type="job"/>
       <relatedItems xmi:id="_tsPCsnx1EeegovBPIZM62g" id="_klEq4HxqEeegovBPIZM62g" version="Latest" type="property"/>
@@ -156,7 +65,6 @@
       <relatedItems xmi:id="_tsPCw3x1EeegovBPIZM62g" id="TalendStringUtil" version="Latest" type="routine"/>
       <relatedItems xmi:id="_tsPCxHx1EeegovBPIZM62g" id="_T5L7YHx1EeegovBPIZM62g - metadata" version="Latest" type="schema"/>
     </ItemsRelations>
-    <deletedFolders>process/AMC</deletedFolders>
     <migrationTask xmi:id="_2YknIHu5Eee0z51y9CZ95w" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_2YknIXu5Eee0z51y9CZ95w" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_2YknInu5Eee0z51y9CZ95w" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
